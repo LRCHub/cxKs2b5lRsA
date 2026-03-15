@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "Flashing Lights",
+  "base_artist": "Kanye West",
+  "createdAt": "2026-03-15T14:36:13.918738Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flashing Lights",
+      "artist": "Chase & Status & Sub Focus feat. Takura",
+      "has_synced": false,
+      "path": "select/01_Flashing_Lights_Chase_&_Status_&_Sub_Focus_feat._Takura.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flashing Lights (feat. Sub Focus & Takura)",
+      "artist": "Chase & Status",
+      "has_synced": true,
+      "path": "select/02_Flashing_Lights_(feat._Sub_Focus_&_Takura)_Chase_&_Status.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flashing Lights",
+      "artist": "Kanye West feat. Dwele",
+      "has_synced": true,
+      "path": "select/03_Flashing_Lights_Kanye_West_feat._Dwele.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flashing Lights (Juke Jams Remix)",
+      "artist": "Kanye West",
+      "has_synced": false,
+      "path": "select/04_Flashing_Lights_(Juke_Jams_Remix)_Kanye_West.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flashing Lights Have Ended Now",
+      "artist": "Foxes In Fiction",
+      "has_synced": false,
+      "path": "select/05_Flashing_Lights_Have_Ended_Now_Foxes_In_Fiction.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flashing Lights (feat. Kanye West)",
+      "artist": "Dwele",
+      "has_synced": true,
+      "path": "select/06_Flashing_Lights_(feat._Kanye_West)_Dwele.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flashing Lights (feat. Dwele)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/07_Flashing_Lights_(feat._Dwele)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flashing Lights",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/08_Flashing_Lights_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Flashing Lights",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/09_Flashing_Lights_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Flashing Lights",
+      "artist": "Kanye West, Dwele",
+      "has_synced": true,
+      "path": "select/10_Flashing_Lights_Kanye_West,_Dwele.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Flashing Lights",
+      "artist": "Kanye West Ft. Dwele",
+      "has_synced": true,
+      "path": "select/11_Flashing_Lights_Kanye_West_Ft._Dwele.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flashing Lights (ft. Dwele)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/12_Flashing_Lights_(ft._Dwele)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flashing Lights",
+      "artist": "Steve Angello feat. Highly Sedated",
+      "has_synced": true,
+      "path": "select/13_Flashing_Lights_Steve_Angello_feat._Highly_Sedated.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Flashing Lights (feat. Highly Sedated)",
+      "artist": "Steve Angello, Highly Sedated",
+      "has_synced": true,
+      "path": "select/14_Flashing_Lights_(feat._Highly_Sedated)_Steve_Angello,_Highly_Sedated.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Flashing Lights",
+      "artist": "Chase & Status feat. Sub Focus & Takura",
+      "has_synced": false,
+      "path": "select/15_Flashing_Lights_Chase_&_Status_feat._Sub_Focus_&_Takura.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Flashing Lights",
+      "artist": "Kanye West; Dwele",
+      "has_synced": true,
+      "path": "select/16_Flashing_Lights_Kanye_West;_Dwele.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Flashing Lights",
+      "artist": "Kanye West, Dwele",
+      "has_synced": true,
+      "path": "select/17_Flashing_Lights_Kanye_West,_Dwele.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Flashing Lights",
+      "artist": "Kanye West Dwele",
+      "has_synced": true,
+      "path": "select/18_Flashing_Lights_Kanye_West_Dwele.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Flashing Lights (feat Dwele)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/19_Flashing_Lights_(feat_Dwele)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "A Man's Life Flashing Before His Eyes While He and His Wife Drive Off a Cliff Into the Ocean",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/20_A_Man's_Life_Flashing_Before_His_Eyes_While_He_and_His_Wife_Drive_Off_a_Cliff_In_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Blue Flashing Light - Live At Glastonbury Festival / 1999",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/21_Blue_Flashing_Light_-_Live_At_Glastonbury_Festival___1999_Travis.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Blue Flashing Light (Live At Glastonbury Festival \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/22_Blue_Flashing_Light_(Live_At_Glastonbury_Festival_\u0000_1999)_Travis.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Dance Hall Days (Flashing Back to Happiness 7' Mix)",
+      "artist": "Wang Chung",
+      "has_synced": true,
+      "path": "select/23_Dance_Hall_Days_(Flashing_Back_to_Happiness_7'_Mix)_Wang_Chung.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Dance Hall Days (Flashing Back to Happiness 12″)",
+      "artist": "Wang Chung",
+      "has_synced": false,
+      "path": "select/24_Dance_Hall_Days_(Flashing_Back_to_Happiness_12′′)_Wang_Chung.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Dance Hall Days [Flashing Back To Happiness 7'' Mix]",
+      "artist": "Wang Chung",
+      "has_synced": true,
+      "path": "select/25_Dance_Hall_Days_[Flashing_Back_To_Happiness_7''_Mix]_Wang_Chung.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flashing Lights",
+      "artist": "Kanye West",
+      "has_synced": false,
+      "path": "select/pl_01_Flashing_Lights_Kanye_West.txt"
+    }
+  ]
+}
